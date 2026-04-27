@@ -12,15 +12,15 @@ Key questions include:
 Approach
 To address these questions, the dataset was analyzed using Power BI with the following steps:
 ### Data Cleaning and Preparation
--- Removed inconsistencies and ensured correct data types
--- Created relationships between orders, customers, and shipping data
+- Removed inconsistencies and ensured correct data types
+- Created relationships between orders, customers, and shipping data
 ### Data Modeling
--- Designed a structured data model for efficient analysis
--- Created calculated measures using DAX (Profit Margin, AOV)
+- Designed a structured data model for efficient analysis
+- Created calculated measures using DAX (Profit Margin, AOV)
 ### Visualization
 Built two dashboards:
--Sales Analysis
--Shipping Analysis
+- Sales Analysis
+- Shipping Analysis
 Used bar charts, line charts, and scatter plots for comparison and trend analysis
 
 
@@ -35,9 +35,9 @@ Used bar charts, line charts, and scatter plots for comparison and trend analysi
 
 ## Outcome
 This dashboard enables stakeholders to:
-Track key performance metrics in real time
-Identify inefficiencies in sales and shipping
-Make data-driven decisions to improve profitability and operations
+- Track key performance metrics in real time
+- Identify inefficiencies in sales and shipping
+- Make data-driven decisions to improve profitability and operations
 
 
 
