@@ -42,6 +42,11 @@ This dashboard enables stakeholders to:
 
 
 
+<img width="1318" height="763" alt="image" src="https://github.com/user-attachments/assets/05c9364d-b132-4cf8-b39e-68708b313587" />
+
+
+<img width="1316" height="762" alt="image" src="https://github.com/user-attachments/assets/8bb7581e-c214-4bd4-b7dc-d80c6e2b25ab" />
+
 
 
 
